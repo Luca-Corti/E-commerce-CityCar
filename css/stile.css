@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+.visible {
+    display:inline-block;
+}
+.cursive {
+    font-family: 'Roboto', sans-serif;
+}
+.bgimage {
+    background-image: url('../img/background.jpg');
+    height: 40vh;
+    padding: 10%;
+
+}

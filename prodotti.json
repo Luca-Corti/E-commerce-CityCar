@@ -1,0 +1,32 @@
+[
+    {
+        "marca": "Audi",
+        "modello": "Etron GT",
+        "prezzo" : "110000",
+        "id": "1",
+        "dettagli" : "Potenza 530 CV, Accelerazione 4,1 secondi, Sistema di ricarica 270 kW ",
+        "url": "img/audi-etron-gt.webp"
+    },
+    {
+        "marca": "Ferrari",
+        "modello": "f8 Tributo",
+        "prezzo" : "235000",
+        "id": "2",
+        "url" : "img/ferrari-f8.webp",
+        "dettagli" : "La Ferrari F8 Tributo è la nuova berlinetta 2 posti a motore centrale-posteriore, quale massima espressione di questa tipologia di vettura del Cavallino Rampante. E’ un’automobile con caratteristiche uniche e, come dice già il nome, omaggia il motore V8 Ferrari più potente di sempre."
+    },    {
+        "marca": "McLaren",
+        "modello": "600-lt",
+        "prezzo" : "236.000",
+        "id": "3",
+        "url" : "img/mclaren-600lt.jpg",
+        "dettagli" : "La McLaren 600LT è una autovettura supersportiva prodotta dalla casa automobilistica britannica McLaren a partire dal 2018.Più lunga e potente rispetto alla sorella McLaren 570S, è stata al Goodwod Festival of Speed del 2018, mentre a gennaio 2019 è stata annunciata per poi essere presentata al Salone dell'automobile di Ginevra del 2019 la versione Spyder."
+    },    {
+        "marca": "Lamborghini",
+        "modello": "Huracan",
+        "prezzo" : "195000",
+        "id": "4",
+        "url" : "img/lambo-huracan.webp",
+        "dettagli" : "La Lamborghini Huracán è il compromesso ideale tra tecnologia e design. La prima emozione si prova semplicemente guardandola. Linee nette, aerodinamiche, progettate per fendere l'aria e domare la strada. La seconda si sperimenta toccandola. Le migliori abilità artigiane italiane sono dedicate all'esecuzione di finiture di prestigio e qualità senza precedenti. Il terzo tuffo al cuore si prova premendo il pulsante dell'accensione e sentendo il motore ad aspirazione naturale V10 e tutta la tecnologia che serve per controllarlo. L'ultima emozione proviene dal sistema di illuminazione full LED e dalla plancia con TFT da 12.3, per un'incomparabile esperienza di guida."
+    }
+]
